@@ -1,7 +1,7 @@
 
 ## 🧠 Project Overview
 
-This project implements a **Counter System** in Python that demonstrates **Object-Oriented Programming concepts** such as:
+This project implements a **Counter Manager** in Python that demonstrates **Object-Oriented Programming concepts** such as:
 
 - **Abstraction** (using `ABC` and abstract methods)
 - **Inheritance**
